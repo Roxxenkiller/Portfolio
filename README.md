@@ -1,2 +1,2 @@
 # Portfolio
-Cuztomize Reponsive Website
+ Reponsive Customize Portfolio
